@@ -4,7 +4,7 @@ package Student;
 public class College {
 
 	public static void main(String[] args) {
-		System.out.println("Дописвам ГИТ проба, променям");
+		
 
 		Student ivan = new Student("Ivan", "Право", 21);
 		Student raya = new Student("Raya", "Право", 26);
